@@ -5,6 +5,7 @@ from scipy.fftpack import dct
 from numpy.linalg import norm
 from tkinter import N
 from numpy.core.fromnumeric import argmax
+
 eps=0.0001
 iterMax= 100
 
